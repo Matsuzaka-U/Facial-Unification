@@ -7,5 +7,5 @@
 Check the [recent releases](https://github.com/Dawgra/Facial-Unification/releases)!
 
 # Guide?
-**Main.luau** - The main part of the Facial Unification module. You can name it as you like.
-**Content** - Modules that should be located inside of Main.luau instance.
+* **Main.luau** - The main part of the Facial Unification module. You can name it as you like.
+* **Content** - Modules that should be located inside of Main.luau instance.
