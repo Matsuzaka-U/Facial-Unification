@@ -13,10 +13,12 @@
 
 -- Sample script! Feel free to make alternative implementations.
 --[[
-local DEFAULT_HEAD = true
-local FacialUnification = require(script:WaitForChild("FacialUnification")) 
+local DEFAULT_HEAD = false
+local FacialUnification = require(game.ServerStorage.FacialUnification) 
 
-game:GetService("Players").PlayerAdded:Connect(function(player)
+local Players = game:GetService("Players")
+
+local function PlayerAdded(player)
 	-- Reload Appearance!
 	local function AppearanceLoad(character)
 		if not character then
@@ -25,9 +27,6 @@ game:GetService("Players").PlayerAdded:Connect(function(player)
 		local humanoid = character:WaitForChild("Humanoid", 1)
 		if humanoid then
 			FacialUnification:ConvertAnimatedHead(humanoid, DEFAULT_HEAD)
-			humanoid.ApplyDescriptionFinished:Once(function()
-				FacialUnification:ConvertAnimatedHead(humanoid, DEFAULT_HEAD)
-			end)
 		end
 	end
 
@@ -36,7 +35,12 @@ game:GetService("Players").PlayerAdded:Connect(function(player)
 	if player.Character then
 		AppearanceLoad(player.Character)
 	end
-end)
+end
+
+Players.PlayerAdded:Connect(PlayerAdded)
+for i, player in pairs(Players:GetPlayers()) do
+	PlayerAdded(player)
+end
 ]]
 
 ------------------------------------------------------------------------------
